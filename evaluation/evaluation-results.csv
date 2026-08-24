@@ -1,0 +1,6 @@
+question_id,test,baseline_relevant_rank,reranked_relevant_rank,baseline_answer_quality_1_to_5,reranked_answer_quality_1_to_5,baseline_correct_or_abstained,reranked_correct_or_abstained,finding
+Q1,Defined Benefit,1,1,5,5,Yes,Yes,No measurable reranking benefit
+Q2,Defined Contribution,2,2,5,5,Yes,Yes,No rank improvement
+Q3,Pension Drawdown,1,1,5,5,Yes,Yes,Both systems performed equally well
+Q4,DB vs DC,Multi-evidence,Multi-evidence,5,5,Yes,Yes,Both retrieved sufficient DB and DC evidence; 100% context coverage
+Q5,Bank of England Base Rate,N/A,N/A,4,5,Yes,Yes,Both abstained; reranked response adhered more strictly to retrieved context

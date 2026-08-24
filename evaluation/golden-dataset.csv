@@ -1,0 +1,6 @@
+question_id,question,test_type
+Q1,What is a Defined Benefit pension scheme?,Direct definition
+Q2,What is a Defined Contribution pension scheme?,Similar concept discrimination
+Q3,What is pension drawdown?,Terminology retrieval
+Q4,What is the difference between a Defined Benefit and Defined Contribution pension?,Multi-evidence reasoning
+Q5,What is the current Bank of England base rate?,Out-of-scope / abstention control
